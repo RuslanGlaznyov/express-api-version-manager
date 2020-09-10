@@ -6,7 +6,7 @@ express-version-api-manager is a node.js module to help you manage api versions 
 
 ## Installation 
 
-    npm install express-version-api-manager
+    npm install express-api-version-manager
 
 ----------
 
