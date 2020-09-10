@@ -1,6 +1,6 @@
 {
   "name": "express-api-version-manager",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "express-api-version-manager is a node.js module to help you manage api versions with express routes",
   "main": "index.js",
   "directories": {

@@ -67,10 +67,10 @@ routerApiV3.get('/user', (req, res) => res.send('user3'));
 
 
 
-//call api/v1/user response -> admin
-//call api/v2/user response -> admin
-//call api/v3/user response -> admin
-//because v2 v3 inherit from v1
+//call api/v1/admin response -> admin
+//call api/v2/admin response -> admin
+//call api/v3/admin response -> admin
+//because v2 and v3 inherit from v1
 routerApiV1.get('/admin', (req, res) => res.send('admin'));
 
 ~~~~
