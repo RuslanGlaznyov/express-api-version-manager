@@ -1,0 +1,30 @@
+{
+  "name": "express-api-version-manager",
+  "version": "1.0.0",
+  "description": "express-version-api-manager is a node.js module to help you manage api versions with express routes",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuslanGlaznyov/express-api-version-manager.git"
+  },
+  "keywords": [
+    "node.js",
+    "api versions",
+    "express router",
+    "api",
+    "version manager",
+    "api versioning"
+  ],
+  "author": "RuslanGlaznyov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RuslanGlaznyov/express-api-version-manager/issues"
+  },
+  "homepage": "https://github.com/RuslanGlaznyov/express-api-version-manager#readme"
+}
